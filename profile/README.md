@@ -1,7 +1,1 @@
-## Othent.io
-
-![othent-email](https://user-images.githubusercontent.com/90644448/233500160-c358085a-48e9-406b-85c4-a97ebb8cfebf.png)
-
-Merging Web2 to Web3 user logins with a familiar and simple interface
-
-Check out our docs at docs.othent.io 
+![othent-banner](https://user-images.githubusercontent.com/90644448/236234816-e14b91d1-1e40-4277-8a55-31ad53df31d9.png)
